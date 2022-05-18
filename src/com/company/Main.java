@@ -6,5 +6,10 @@ public class Main {
      FactorX.Sun="1";
      FactorX.Moon="4";
      FactorX.Planet="6";
+
+     FeatureSun Xfact= new FeatureSun();
+     Xfact.heat="1";
+     Xfact.radius="5";
+     Xfact.color="green";
     }
 }
