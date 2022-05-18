@@ -11,5 +11,6 @@ public class Main {
      Xfact.heat="1";
      Xfact.radius="5";
      Xfact.color="green";
+     Xfact.color1="pink";
     }
 }
