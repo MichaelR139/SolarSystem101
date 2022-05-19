@@ -12,5 +12,10 @@ public class Main {
      Xfact.radius="5";
      Xfact.color="green";
      Xfact.color1="pink";
+
+     Stars stars=new Stars();
+     stars.color="red";
+     stars.radius="3";
+     stars.size="8";
     }
 }
